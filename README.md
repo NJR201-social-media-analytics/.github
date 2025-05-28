@@ -1,5 +1,4 @@
-# .github
-```mermaid height=700,auto
+```mermaid
 
 gantt
     title NJR201 第三組「飲」爆話題 - 專案規劃表
